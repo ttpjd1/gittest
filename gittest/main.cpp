@@ -13,6 +13,8 @@ int main (int argc, const char * argv[])
 
     // insert code here...
     std::cout << "Hello, World!\n";
+    // this is my first change
+    std::cout << "still works!\n";
     return 0;
 }
 
