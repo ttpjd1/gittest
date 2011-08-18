@@ -22,7 +22,13 @@ int main (int argc, const char * argv[])
     std::cout << "now making a change on the Mac mini\n\n";
     std::cout << "now I push a change from xCode on my MBA\n\n";
     std::cout << "now I clean up the automatic merge (ignoring the errors from GitHub for Mac)\n\n";
+<<<<<<< HEAD
     std::cout << "now a SECOND change from the Mac mini\n";
+=======
+
+    std::cout << "now a SECOND conflicting change from the MBA\n\n";
+
+>>>>>>> Now a SECOND conflicting change from the MBA
     return 0;
 }
 
