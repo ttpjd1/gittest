@@ -17,7 +17,8 @@ int main (int argc, const char * argv[])
     std::cout << "still works!\n";
     // this is my second change
     std::cout << "fixed it\n";
-    std::cout << "broke it again;
+    std::cout << "broke it again\n";
+    std::cout << "now it is fixed\n\n";
     return 0;
 }
 
