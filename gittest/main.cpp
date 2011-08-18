@@ -19,7 +19,11 @@ int main (int argc, const char * argv[])
     std::cout << "fixed it\n";
     std::cout << "broke it again\n";
     std::cout << "now it is fixed\n\n";
+<<<<<<< HEAD
     std::cout << "now making a change on the Mac mini\n\n";
+=======
+    std::cout << "now I push a change from xCode on my MBA\n\n";
+>>>>>>> Now a change from the MBA
     return 0;
 }
 
