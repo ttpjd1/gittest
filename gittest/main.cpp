@@ -19,6 +19,7 @@ int main (int argc, const char * argv[])
     std::cout << "fixed it\n";
     std::cout << "broke it again\n";
     std::cout << "now it is fixed\n\n";
+    std::cout << "now making a change on the Mac mini\n\n";
     return 0;
 }
 
